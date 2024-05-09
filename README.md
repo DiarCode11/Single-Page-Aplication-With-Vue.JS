@@ -1,29 +1,19 @@
-# diarcode-web
+# Mentahan Single Page Application 
 
-This template should help get you started developing with Vue 3 in Vite.
+Template ini bisa digunakan untuk kamu yang baru ingin mencoba membuat SPA menggunakan Vue.js. Pada Repositori ini terdapat navbar sederhana yang sudah menerapkan SPA. Kamu bisa atur CSS, Layout, dan Javascript sendiri sesuai kebutuhan 
 
-## Recommended IDE Setup
+## Recommendasi Kode Editor dan Ekstensi
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
+### Command untuk Menjalankan Kode
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
-
+### Command untuk Build (Production)
 ```sh
 npm run build
 ```
